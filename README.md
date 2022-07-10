@@ -2,6 +2,7 @@
 01 HTML, CSS, and Git: Code Refactor
 
 Description
+
 The purpose of this Challenge was to refactor code that was provided to make it more accessible for users. 
 
 Screenshot
@@ -10,3 +11,4 @@ Screenshot
 
 Link to deployed application
 
+https://tonytran97.github.io/Challenge1/
